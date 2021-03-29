@@ -1,0 +1,94 @@
+2021-03-16 17:19:14,052 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 17:19:14,052 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 17:19:14,052 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 17:19:14,052 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 17:22:33,316 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 17:22:33,316 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 17:22:33,316 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 17:22:33,316 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 17:22:33,317 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 17:53:33,113 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 17:53:33,113 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 17:53:33,113 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 17:53:33,113 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 17:53:33,113 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:22:13,188 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:22:13,188 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:22:13,188 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:22:13,188 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:22:13,188 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:47:07,792 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:47:07,792 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:47:07,793 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:47:07,793 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:47:07,793 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:47:27,266 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:47:27,266 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:47:27,266 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:47:27,266 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:47:27,266 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:48:20,161 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:48:20,161 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:48:20,161 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:48:20,161 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:48:20,162 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:49:12,209 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:49:12,209 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:49:12,209 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:49:12,209 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:49:12,209 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-16 18:49:46,005 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-16 18:49:46,005 :INFO : pytestsdemo.test_logging :information statement
+2021-03-16 18:49:46,005 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-16 18:49:46,005 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-16 18:49:46,005 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-17 18:13:36,506 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-17 18:13:36,506 :INFO : pytestsdemo.test_logging :information statement
+2021-03-17 18:13:36,506 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-17 18:13:36,506 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-17 18:13:36,506 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-17 18:15:19,097 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-17 18:15:19,097 :INFO : pytestsdemo.test_logging :information statement
+2021-03-17 18:15:19,098 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-17 18:15:19,098 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-17 18:15:19,098 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-17 18:40:53,822 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-17 18:40:53,822 :INFO : pytestsdemo.test_logging :information statement
+2021-03-17 18:40:53,823 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-17 18:40:53,823 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-17 18:40:53,823 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-18 12:55:54,771 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-18 12:55:54,771 :INFO : pytestsdemo.test_logging :information statement
+2021-03-18 12:55:54,771 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-18 12:55:54,772 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-18 12:55:54,772 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-18 12:57:56,995 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-18 12:57:56,995 :INFO : pytestsdemo.test_logging :information statement
+2021-03-18 12:57:56,996 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-18 12:57:56,996 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-18 12:57:56,996 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-18 12:58:30,929 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-18 12:58:30,929 :INFO : pytestsdemo.test_logging :information statement
+2021-03-18 12:58:30,929 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-18 12:58:30,929 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-18 12:58:30,929 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-18 12:58:51,198 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-18 12:58:51,198 :INFO : pytestsdemo.test_logging :information statement
+2021-03-18 12:58:51,198 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-18 12:58:51,198 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-18 12:58:51,198 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-29 10:43:23,455 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-29 10:43:23,455 :INFO : pytestsdemo.test_logging :information statement
+2021-03-29 10:43:23,455 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-29 10:43:23,455 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-29 10:43:23,455 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-29 10:43:48,968 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-29 10:43:48,969 :INFO : pytestsdemo.test_logging :information statement
+2021-03-29 10:43:48,969 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-29 10:43:48,969 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-29 10:43:48,969 :CRITICAL : pytestsdemo.test_logging :issue is critical
+2021-03-29 11:03:29,370 :DEBUG : pytestsdemo.test_logging :A debug statement is executed
+2021-03-29 11:03:29,371 :INFO : pytestsdemo.test_logging :information statement
+2021-03-29 11:03:29,371 :WARNING : pytestsdemo.test_logging :warning mode
+2021-03-29 11:03:29,371 :ERROR : pytestsdemo.test_logging :error is occured
+2021-03-29 11:03:29,371 :CRITICAL : pytestsdemo.test_logging :issue is critical
